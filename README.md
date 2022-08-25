@@ -1,0 +1,2 @@
+# GaussianMixtureModel
+gaussian mixture model
